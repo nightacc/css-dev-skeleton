@@ -1,0 +1,13 @@
+/* 1.Perform basic css reset (cross browser) by using  the universal selector * */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+    // This defines what 1rem is
+    font-size: 62.5%; // 1rem = 10px, (10/16)*100 = 62.5%
+}
