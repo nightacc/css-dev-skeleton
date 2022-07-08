@@ -1,0 +1,25 @@
+{
+  "name": "css-dev-skeleton",
+  "version": "1.0.0",
+  "description": "CSS & Sass code template skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightacc/css-dev-skeleton.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "template",
+    "development"
+  ],
+  "author": "Emil Tsvetanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nightacc/css-dev-skeleton/issues"
+  },
+  "homepage": "https://github.com/nightacc/css-dev-skeleton#readme"
+}
